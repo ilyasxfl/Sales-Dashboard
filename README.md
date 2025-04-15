@@ -33,8 +33,5 @@ An interactive dashboard built with Python, Dash, and Plotly to visualize sales 
 - `assets\style.css`: Custom styling.
 - `requirements.txt`: Dependencies.
 
-## Screenshot
-[Coming soon]
-
 ## License
 MIT
