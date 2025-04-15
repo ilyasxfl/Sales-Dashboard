@@ -1,0 +1,11 @@
+date,region,product,sales
+2025-01-01,Berlin,Laptop,1000
+2025-01-01,Munich,Laptop,1200
+2025-01-01,Berlin,Phone,800
+2025-01-01,Hamburg,Tablet,600
+2025-01-02,Berlin,Laptop,1100
+2025-01-02,Munich,Phone,900
+2025-01-02,Hamburg,Laptop,700
+2025-01-03,Berlin,Phone,850
+2025-01-03,Munich,Tablet,500
+2025-01-03,Hamburg,Phone,950

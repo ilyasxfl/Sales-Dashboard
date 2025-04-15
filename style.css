@@ -1,0 +1,17 @@
+.has-value.Select--single>.Select-control .Select-value .Select-value-label,
+.has-value.is-pseudo-focused.Select--single>.Select-control .Select-value .Select-value-label {
+    color: #ffffff !important;
+    background-color: #0f3460 !important;
+}
+.custom-dropdown .Select-menu-outer {
+    background-color: #0f3460 !important;
+    border: 1px solid #00ff85 !important;
+}
+.custom-dropdown .Select-option {
+    color: #ffffff !important;
+    background-color: #0f3460 !important;
+}
+.custom-dropdown .Select-option:hover {
+    background-color: #1a1a2e !important;
+    color: #ffffff !important;
+}
